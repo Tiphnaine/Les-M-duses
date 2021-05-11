@@ -9,6 +9,7 @@
   <img src={logo} alt="Svelte Logo" />
   <h1>Hello world!</h1>
   <h2>yiiiii</h2>
+  <p>YAAYYYAYAYAY</p>
   <section class="text-gray-600 body-font">
     <div class="container px-5 py-24 mx-auto flex flex-wrap">
       <div class="flex flex-wrap -m-4">
