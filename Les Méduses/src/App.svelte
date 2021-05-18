@@ -6,8 +6,13 @@
 <Tailwindcss/>
 
 <main>
+<<<<<<< Updated upstream
   <img src={logo} alt="Svelte Logo" />
   <h1>Hello world! Make it better place</h1>
+=======
+  <img src=https://imgur.com/a/unp1IZ5 alt="Les Méduses logo" />
+  <h1>Hello world!</h1>
+>>>>>>> Stashed changes
   <h2>yiiiii</h2>
   <h3>Pikachu</h3>
   <img src="https://media.giphy.com/media/lOa0tPKiMLdqVdFiS8/giphy.gif">
