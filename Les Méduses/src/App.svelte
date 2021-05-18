@@ -6,7 +6,7 @@
 <Tailwindcss/>
 
 <main>
-  <img src="https://imgur.com/a/unp1IZ5" alt="Les Méduses logo" />
+  <img src="https://i.imgur.com/ugjoMVJ.png" alt="Les Méduses logo" />
   <h1>Hello world!</h1>
   <h2>yiiiii</h2>
   <h3>Pikachu</h3>
