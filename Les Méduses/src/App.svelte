@@ -11,11 +11,7 @@
   <h2>yiiiii</h2>
   <h3>Pikachu</h3>
   <p>YAAYYYAYAYAY</p>
-<<<<<<< HEAD
   <h3>helloooooooooooooooooo</h3>
-=======
-  hakim test 
->>>>>>> master
   <section class="text-gray-600 body-font">
     <div class="container px-5 py-24 mx-auto flex flex-wrap">
       <div class="flex flex-wrap -m-4">
