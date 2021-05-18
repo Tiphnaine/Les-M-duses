@@ -7,7 +7,7 @@
 
 <main>
   <img src={logo} alt="Svelte Logo" />
-  <h1>Hello world!</h1>
+  <h1>Hello world! Make it better place</h1>
   <h2>yiiiii</h2>
   <h3>Pikachu</h3>
   <p>YAAYYYAYAYAY</p>
