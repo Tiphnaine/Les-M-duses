@@ -10,8 +10,10 @@
   <h1>Hello world! Make it better place</h1>
   <h2>yiiiii</h2>
   <h3>Pikachu</h3>
+  <img src="https://media.giphy.com/media/lOa0tPKiMLdqVdFiS8/giphy.gif">
   <p>YAAYYYAYAYAY</p>
   <h3>helloooooooooooooooooo</h3>
+
   <section class="text-gray-600 body-font">
     <div class="container px-5 py-24 mx-auto flex flex-wrap">
       <div class="flex flex-wrap -m-4">
